@@ -1,0 +1,22 @@
+{
+  "name": "shooting",
+  "version": "1.0.0",
+  "description": "射撃ゲーム",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/terepoto/shooting.git"
+  },
+  "keywords": [
+    "射撃ゲーム"
+  ],
+  "author": "terepoto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/terepoto/shooting/issues"
+  },
+  "homepage": "https://github.com/terepoto/shooting#readme"
+}
